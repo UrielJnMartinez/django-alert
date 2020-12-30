@@ -1,0 +1,19 @@
+# pycache
+/__pycache__
+
+# enviroment
+.env
+Pipfile
+Pipfile.lock
+
+# vscode
+.vscode/
+
+# 
+
+*.db
+*.pyc
+*.egg-info
+
+# dockerfiles
+docker-compose.yml
